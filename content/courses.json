@@ -1,0 +1,54 @@
+{
+  "courses": [
+    {
+      "id": "web-development",
+      "name": "Web Development",
+      "description": "Master modern web development techniques and frameworks.",
+      "icon": "code",
+      "gradient": "from-purple-500 to-pink-400",
+      "order": 1,
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "description": "Explore the latest in technology and software development.",
+      "icon": "cpu",
+      "gradient": "from-blue-500 to-cyan-400",
+      "order": 2,
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "design",
+      "name": "Design",
+      "description": "Learn design principles and create beautiful interfaces.",
+      "icon": "palette",
+      "gradient": "from-orange-500 to-yellow-400",
+      "order": 3,
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "c-programming",
+      "name": "C# Programming",
+      "description": "Learn C#",
+      "icon": "code",
+      "gradient": "from-blue-500 to-cyan-400",
+      "order": 4,
+      "createdAt": "2026-01-10T18:44:56.191Z",
+      "updatedAt": "2026-01-10T18:44:56.191Z"
+    },
+    {
+      "id": "learn-c-from-beginner-to-advanced",
+      "name": "Learn C# from Beginner to Advanced",
+      "description": "Learn C# from Beginner to Advanced",
+      "icon": "code",
+      "gradient": "from-purple-500 to-pink-400",
+      "order": 5,
+      "createdAt": "2026-01-11T06:46:11.377Z",
+      "updatedAt": "2026-01-11T06:46:11.377Z"
+    }
+  ]
+}
