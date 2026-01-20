@@ -5,7 +5,7 @@ excerpt: 'Part 3: Environment Setup'
 categories:
   - Learn C# from Beginner to Advanced
 tags: []
-draft: true
+draft: false
 ---
 # Part 3: Environment Setup
 

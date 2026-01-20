@@ -8,7 +8,7 @@ tags:
   - C#
   - loops
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 17: for Loop

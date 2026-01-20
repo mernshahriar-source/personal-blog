@@ -8,7 +8,7 @@ tags:
   - C#
   - arrays
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 21: Multi-dimensional Arrays

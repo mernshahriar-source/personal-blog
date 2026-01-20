@@ -9,7 +9,7 @@ tags:
   - arrays
   - methods
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 23: Array Methods (Built-in সুবিধা)

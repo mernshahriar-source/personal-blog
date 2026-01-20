@@ -5,7 +5,7 @@ excerpt: 'Part 7: Variables & Data Types'
 categories:
   - Learn C# from Beginner to Advanced
 tags: []
-draft: true
+draft: false
 ---
 # Part 7: Variables & Data Types
 

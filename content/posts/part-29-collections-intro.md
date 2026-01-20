@@ -9,7 +9,7 @@ tags:
   - collections
   - generics
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 29: Generic Collections - Introduction

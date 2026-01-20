@@ -9,7 +9,7 @@ tags:
   - collections
   - list
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 30: List<T> - Dynamic Array

@@ -5,7 +5,7 @@ excerpt: 'Part 4: First Project'
 categories:
   - Learn C# from Beginner to Advanced
 tags: []
-draft: true
+draft: false
 ---
 # Part 4: First Project
 

@@ -8,7 +8,7 @@ tags:
   - C#
   - type-casting
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 8: Type Casting

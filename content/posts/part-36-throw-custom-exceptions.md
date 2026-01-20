@@ -9,7 +9,7 @@ tags:
   - exceptions
   - error-handling
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 36: throw Keyword এবং Custom Exceptions

@@ -5,7 +5,7 @@ excerpt: 'Part 5: Console Input/Output'
 categories:
   - Learn C# from Beginner to Advanced
 tags: []
-draft: true
+draft: false
 ---
 # Part 5: Console Input/Output
 

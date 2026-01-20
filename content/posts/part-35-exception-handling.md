@@ -9,7 +9,7 @@ tags:
   - exceptions
   - error-handling
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 35: Exception Handling - Try-Catch-Finally

@@ -8,7 +8,7 @@ tags:
   - C#
   - operators
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 12: Logical Operators

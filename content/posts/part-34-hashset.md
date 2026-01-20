@@ -9,7 +9,7 @@ tags:
   - collections
   - hashset
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 34: HashSet<T> - Unique Items Only

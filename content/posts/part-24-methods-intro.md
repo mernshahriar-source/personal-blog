@@ -8,7 +8,7 @@ tags:
   - C#
   - methods
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 24: Methods - Introduction

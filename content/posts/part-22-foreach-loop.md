@@ -9,7 +9,7 @@ tags:
   - loops
   - arrays
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 22: foreach Loop

@@ -9,7 +9,7 @@ tags:
   - introduction
   - tutorial
   - blog
-draft: true
+draft: false
 ---
 # Part 1: Introduction - C# কী এবং কেন শিখবে?
 

@@ -9,7 +9,7 @@ tags:
   - collections
   - stack
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 32: Stack<T> - Last In First Out (LIFO)

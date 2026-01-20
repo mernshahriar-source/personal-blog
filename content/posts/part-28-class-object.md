@@ -9,7 +9,7 @@ tags:
   - OOP
   - classes
   - tutorial
-draft: true
+draft: false
 ---
 
 # Part 28: Class এবং Object - Basics
