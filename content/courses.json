@@ -49,6 +49,16 @@
       "order": 5,
       "createdAt": "2026-01-11T06:46:11.377Z",
       "updatedAt": "2026-01-11T06:46:11.377Z"
+    },
+    {
+      "id": "cps-academy-c-course",
+      "name": "CPS Academy C# Course",
+      "description": "CPS Academy র সম্পূর্ণ C# কোর্স — Beginner থেকে OOP পর্যন্ত বাংলায় শিখুন।",
+      "icon": "code",
+      "gradient": "from-green-500 to-teal-400",
+      "order": 6,
+      "createdAt": "2026-03-01T00:00:00.000Z",
+      "updatedAt": "2026-03-01T00:00:00.000Z"
     }
   ]
 }
