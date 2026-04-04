@@ -59,6 +59,16 @@
       "order": 6,
       "createdAt": "2026-03-01T00:00:00.000Z",
       "updatedAt": "2026-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "c-course-scripts",
+      "name": "C# Course Scripts",
+      "description": "Udemy Style C# কোর্স স্ক্রিপ্ট — Beginner থেকে শুরু করে Variables, Data Types, Operators পর্যন্ত বাংলায় শিখুন।",
+      "icon": "code",
+      "gradient": "from-indigo-500 to-blue-400",
+      "order": 7,
+      "createdAt": "2026-04-05T00:00:00.000Z",
+      "updatedAt": "2026-04-05T00:00:00.000Z"
     }
   ]
 }
