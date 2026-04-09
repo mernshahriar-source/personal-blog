@@ -125,10 +125,10 @@ int result = 10 + 5;
 
 পরের lessons এ একে একে শিখবো:
 
-1. **Arithmetic** — +, -, *, /, % (Integer Division trap সহ!)
-2. **Assignment** — +=, -=, ++, -- (shortcut ways)
-3. **Comparison** — ==, !=, >, <, >=, <= (তুলনা)
-4. **Logical** — &&, ||, ! (condition combine)
+1. **Arithmetic** — `+`, `-`, `*`, `/`, `%` (Integer Division trap সহ!)
+2. **Assignment** — `+=`, `-=`, `++`, `--` (shortcut ways)
+3. **Comparison** — `==`, `!=`, `>`, `<`, `>=`, `<=` (তুলনা)
+4. **Logical** — `&&`, `||`, `!` (condition combine)
 
 **চলো শুরু করি!**
 

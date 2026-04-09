@@ -14,7 +14,7 @@ draft: false
 
 # Lesson 2.4: Comparison Operators — তুলনা করা
 
-> **এই Lesson এ শিখবে:** == (সমান), != (সমান না), > (বড়), < (ছোট), >= (বড় বা সমান), <= (ছোট বা সমান), = vs == পার্থক্য, String comparison, Case sensitivity, এবং real-world examples (Password check, Age check, Temperature, High Score)।
+> **এই Lesson এ শিখবে:** `==` (সমান), `!=` (সমান না), `>` (বড়), `<` (ছোট), `>=` (বড় বা সমান), `<=` (ছোট বা সমান), `=` vs `==` পার্থক্য, String comparison, Case sensitivity, এবং real-world examples (Password check, Age check, Temperature, High Score)।
 
 ---
 
@@ -120,7 +120,7 @@ Console.WriteLine($"New record? {newRecord}");  // True
 
 ---
 
-## < (Less Than) — ছোট কিনা?
+## `<` (Less Than) — ছোট কিনা?
 
 ```csharp
 Console.WriteLine(3 < 10);  // True
@@ -171,7 +171,7 @@ Console.WriteLine($"Passed? {passed}");  // True
 
 ---
 
-## <= (Less Than or Equal) — ছোট অথবা সমান
+## `<=` (Less Than or Equal) — ছোট অথবা সমান
 
 ```csharp
 Console.WriteLine(5 <= 10);  // True

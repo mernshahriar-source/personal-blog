@@ -291,7 +291,7 @@ total /= 3;  // 3, not 3.33!
 
 ---
 
-**পরের Lesson:** Comparison Operators — ==, !=, >, <, >=, <= দিয়ে তুলনা করা।
+**পরের Lesson:** Comparison Operators — `==`, `!=`, `>`, `<`, `>=`, `<=` দিয়ে তুলনা করা।
 
 ---
 
