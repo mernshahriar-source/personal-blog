@@ -22,7 +22,7 @@ draft: false
 
 | | if-else | switch |
 |---|---------|--------|
-| **Range** (>=, <=) | ✅ পারে | ❌ পারে না |
+| **Range** (&gt;=, &lt;=) | ✅ পারে | ❌ পারে না |
 | **Exact value** match | OK | ✅ Best |
 | **অনেক options** | লম্বা | ✅ Clean |
 | **Complex** (&&, \|\|) | ✅ পারে | ❌ পারে না |
